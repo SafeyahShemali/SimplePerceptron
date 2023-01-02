@@ -7,7 +7,7 @@ This is a program that designed to train a perceptron learning model on a linear
 
 After implementing the perceptron algorithm, a clean and clear separation line that separates the negative example from the positive examples have been found, as shown below. The weights that define the decision boundary are [-5, -2, 39]
 
-*image*
+![My Image](images.jpg)
 
 ## Getting Started 🚀
 
